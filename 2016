@@ -11,22 +11,22 @@
 - Published first game on itch.io
 - Participated in first game jam
 - Created Stupid Office Functions, javascript experiments
-- Created Plastice, a text adventure RPG engine
+- Created Plastic, a text adventure RPG engine
 
 **Sooryen work**
 
-Was tech lead on conversion of 1800flowers code base, integrating 6 different brands into a single, cohesive code base.
+Tech lead on conversion of 1800flowers code base, integrating 6 different brands into a single, cohesive code base.
 - reorganized all sass/css files
 - created brand-based variables for code separation
 
 Optimized 1800flowers sass/css for better performance on mobile
-- strealined framework files
+- streamlined framework files
 - broke down page specific css for faster loading
 - integrated lazy load css
 
 Organized and wrote documentation for new company wiki
 
-Facilitated and was primary contributor for a tech talk on text editors
+Facilitated and was primary contributor for an internal tech talk on text editors
 
 Attended Web Payments hackathon at Google on 8/10 in NYC
 - worked with first iteration of web payments API integration
