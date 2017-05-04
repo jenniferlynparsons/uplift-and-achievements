@@ -2,7 +2,7 @@ I'm currently doing a commit a day. Since Github seems to not recognize commits 
 
 1 x
 2 x
-3
+3 x
 4
 5
 6
