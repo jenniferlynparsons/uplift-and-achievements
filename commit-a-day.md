@@ -1,8 +1,8 @@
 I'm currently doing a commit a day. Since Github seems to not recognize commits made in branches or forks and I'm also doing some stuff on Gitlab, I figured I would just put this file here so I can have an accurate count. Yay!
 
-1 x
-2 x
-3 x
+1 x - work on plastic stats calculator
+2 x - work on plastic stats calculator
+3 x - javascript/clojure coding "homework"
 4
 5
 6
