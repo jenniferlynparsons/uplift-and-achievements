@@ -6,7 +6,7 @@ I'm currently doing a commit a day. Since Github seems to not recognize commits 
 4 x - added to homework notes
 5 x - more homework updates
 6 x - general work stuff
-7 
+7 x - updated clojure notes on maps
 8
 9
 10
