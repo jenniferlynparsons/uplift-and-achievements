@@ -1,12 +1,14 @@
 I'm currently doing a commit a day. Since Github seems to not recognize commits made in branches or forks and I'm also doing some stuff on Gitlab, I figured I would just put this file here so I can have an accurate count. Yay!
 
-1 x - work on plastic stats calculator
-2 x - work on plastic stats calculator
-3 x - javascript/clojure coding "homework"
-4 x - added to homework notes
-5 x - more homework updates
-6 x - general work stuff
-7 x - updated clojure notes on maps
+This is also a good way for me to note what I'm working on each day in some small way.
+
+1 
+2 
+3 
+4 
+5 
+6 
+7 
 8
 9
 10
