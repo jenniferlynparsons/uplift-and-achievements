@@ -2,8 +2,10 @@ I'm currently doing a commit a day. Since Github seems to not recognize commits 
 
 This is also a good way for me to note what I'm working on each day in some small way.
 
-1 
-2 
+Start Date: 7.3.17
+
+1 - plastic refactor: var to const/let
+2 - plastic refactor: determining if destructuring is applicable
 3 
 4 
 5 
