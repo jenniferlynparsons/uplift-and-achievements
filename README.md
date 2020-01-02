@@ -1,6 +1,8 @@
 # Uplift and Achievements
 The awesome stuff I've done.
 
+- [2020](https://github.com/jenniferlynparsons/uplift-and-achievements/blob/master/2020.md)
+
 - [2019](https://github.com/jenniferlynparsons/uplift-and-achievements/blob/master/2019.md)
 
 - [2018](https://github.com/jenniferlynparsons/uplift-and-achievements/blob/master/2018.md)
